@@ -1,0 +1,101 @@
+{
+  "l1DhIF": {
+    "translation": "<0>Keyword 1 (do not translate in keywords.txt)</0><1>关键字 2</1><2>Keyword 3 (do not translate in keywords.txt)</2>",
+    "message": "<0>Keyword 1 (do not translate in keywords.txt)</0><1>Keyword 2</1><2>Keyword 3 (do not translate in keywords.txt)</2>",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/page.tsx",
+        39
+      ]
+    ]
+  },
+  "TsoDGX": {
+    "translation": "自动国际化演示，5分钟内为您的网站添加新语言",
+    "message": "auto-i18n-next-lingui-tiny-demo, add a new language to your website in 5 minutes",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/page.tsx",
+        12
+      ]
+    ]
+  },
+  "W0u4Si": {
+    "translation": "其他语言版本：",
+    "message": "Other Language versions:",
+    "comments": [],
+    "origin": [
+      [
+        "src/components/LanguageFooter.tsx",
+        7
+      ]
+    ]
+  },
+  "LF2mGP": {
+    "translation": "子页面",
+    "message": "Sub Page",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/subpage/page.tsx",
+        28
+      ]
+    ]
+  },
+  "RK3O7W": {
+    "translation": "这是一个子页面",
+    "message": "This is a subpage",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/subpage/page.tsx",
+        12
+      ]
+    ]
+  },
+  "GSX6Tm": {
+    "translation": "这是子页面的描述",
+    "message": "This is subpage's description",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/subpage/page.tsx",
+        13
+      ]
+    ]
+  },
+  "dFY3S6": {
+    "translation": "转至子页面",
+    "message": "To Sub Page",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/page.tsx",
+        34
+      ]
+    ]
+  },
+  "aDJB+h": {
+    "translation": "使用Lingui在5分钟内为您的网站添加新语言，借助AI技术",
+    "message": "Use Lingui to add a new language to your website in 5 minutes with AI",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/page.tsx",
+        13
+      ]
+    ]
+  },
+  "QpzMsa": {
+    "translation": "欢迎来到<0>Next.js!</0>",
+    "message": "Welcome to <0>Next.js!</0>",
+    "comments": [],
+    "origin": [
+      [
+        "src/app/[lang]/page.tsx",
+        29
+      ]
+    ]
+  }
+}
